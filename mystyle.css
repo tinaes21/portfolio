@@ -23,6 +23,22 @@ h1.first-header {
     font-weight:bold;
    }
 
+h1.portfolio-header {
+    font-family: 'Abril Fatface', cursive;
+    text-align: center;
+    color: black;
+    font-size: 2.5em;
+    margin-top: 60px;
+    font-weight:bold;
+   }
+
+h2{
+    font-family:'Courgette';
+    margin-left: 1em;
+    margin-top: 2em;
+    font-size: 25px;
+}
+
 .frontnav{
     background-color: #d8be81;
     color: black;
@@ -65,7 +81,7 @@ a:hover {
 }
 
 #biography {
-    font-family: 'Courgette', cursive;
+    font-family:'Courgette', cursive;
     font-size: 20px;
     text-align: center;
     color: snow;
@@ -95,6 +111,29 @@ a:hover {
     height: 5px;
     margin: 6px 0;
 }
+
+#options{
+    padding: 15px;
+    color: black;
+    font-family:'Courgette', cursive;
+    margin-left: 4.5em;
+
+    text-decoration: none;
+
+
+}
+
+.bluebox{
+    background-color: lightskyblue;
+    height: 5em;
+    padding: 5px;
+    margin-left: 2em;
+    margin-right: 2em;
+    border-radius: 4px;
+}
+
+
+
 
 /***.red {
     color: white;
