@@ -35,3 +35,16 @@ nav a{
 a:hover {
     color: grey;
 }
+
+.first-footer {
+
+    width: 100%;
+    color: lightgrey;
+    font-family:'Russo One', sans-serif;
+    margin-bottom:0;
+    margin-left:0;
+    margin-right: 0;
+    padding: 10px;
+    text-align:center;
+    margin-top: 18em;
+}
