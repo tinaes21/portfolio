@@ -49,6 +49,10 @@ a:hover {
     margin-top: 18em;
 }
 
+#page2{
+    background-color: black;
+}
+
 #myphoto {
     width: 100%;
 }
@@ -57,4 +61,8 @@ a:hover {
     font-family: 'Courgette', cursive;
     font-size: 20px;
     text-align: center;
+    color: snow;
+    margin-top: 0;
+    margin-bottom: 2em;
+    padding: 8%;
 }
