@@ -1,1 +1,15 @@
 @import url('https://fonts.googleapis.com/css?family=Abril+Fatface|Courgette|Russo+One|Ultra');
+
+body,html{
+    height: 100%;
+}
+
+.bg {
+
+    background-image: url(IMG_3023@2x.png);
+    height:100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size:cover;
+    width: 100%;
+}
