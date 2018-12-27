@@ -52,3 +52,9 @@ a:hover {
 #myphoto {
     width: 100%;
 }
+
+#biography {
+    font-family: 'Courgette', cursive;
+    font-size: 20px;
+    text-align: center;
+}
