@@ -116,8 +116,8 @@ a:hover {
     padding: 15px;
     color: black;
     font-family:'Courgette', cursive;
-    margin-left: 4.5em;
-
+    margin-left: 1em;
+    text-align: center;
     text-decoration: none;
 
 
@@ -130,6 +130,7 @@ a:hover {
     margin-left: 2em;
     margin-right: 2em;
     border-radius: 4px;
+    box-shadow: 5px 10px #8888
 }
 
 
