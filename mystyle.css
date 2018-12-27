@@ -24,12 +24,16 @@ h1.first-header {
    }
 
 nav a{
-    background-color: azure;
+    background-color: #d8be81;
     color: black;
     transition: all 2s;
-    margin-left: 5.5em;
+    margin-left: 5em;
     font-family: 'Courgette', cursive;
     font-size: 1em;
+    text-decoration: none;
+    padding: 5px;
+    border-radius: 6px;
+
 }
 
 a:hover {
@@ -46,7 +50,7 @@ a:hover {
     margin-right: 0;
     padding: 10px;
     text-align:center;
-    margin-top: 18em;
+    margin-top: 22em;
 }
 
 #page2{
