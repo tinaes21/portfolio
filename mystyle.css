@@ -73,3 +73,17 @@ a:hover {
     margin-bottom: 2em;
     padding: 8%;
 }
+
+#menu {
+    width: 35px;
+    margin-left: 11em;
+    margin-top: 1.5em;
+    cursor: pointer;
+}
+
+.burger {
+    background-color: snow;
+    height: 5px;
+    margin: 6px 0;
+
+}
