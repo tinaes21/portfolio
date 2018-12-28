@@ -100,20 +100,12 @@ a:hover {
 .burger {
     height: 5px;
     margin: 6px 0;
-    background-color: snow;
+    background-color: #d8be81;
 }
 
-.burger.burger2:hover {
+.burger:hover {
     cursor: pointer;
 }
-
-.burger2 {
-    height: 5px;
-    margin: 6px 0;
-    background-color: black;
-}
-
-
 
 
 
