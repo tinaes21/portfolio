@@ -67,17 +67,22 @@ a:hover {
     width: 100%;
     color: lightgrey;
     font-family: 'Russo One', sans-serif;
-    margin-bottom: 0;
+    margin-bottom: 0em;
     margin-left: 0;
     margin-right: 0;
     padding: 10px;
     text-align: center;
-    margin-top: 22em;
+    margin-top: 12em;
 }
 
 #page2 {
     background-color: black;
 }
+
+
+.topnav{
+        display: none;
+    }
 
 #myphoto {
     width: 60%;
@@ -114,8 +119,6 @@ a:hover {
 .burger:hover {
     cursor: pointer;
 }
-
-
 
 
 #options {
@@ -234,6 +237,10 @@ a {
         font-size: 18px;
     }
 
+    .topnav{
+        display: none;
+    }
+
     #myphoto {
         margin-left: 14em;
         width: 40%;
@@ -343,7 +350,51 @@ h2 {
     }
 
 
-
-
-
+    #myphoto {
+        margin-left: 36em;
+        width: 20%;
+        margin-top: 4em;
+        margin-bottom: 0;
     }
+
+    #page2 {
+        background-color: black;
+    }
+
+    #biography {
+        color: white;
+        background-color: black;
+        font-size: 27px;
+        margin-left: 4em;
+        margin-right: 4em;
+        padding: 2em;
+        margin-top: 2em;
+    }
+
+ .menu {
+        display: none;
+    }
+
+    .
+.white {
+    margin-left: 8em;
+}
+
+.topnav{
+        display:inline-block;
+        background-color: #d8be81;
+        color: black;
+        transition: all 2s;
+        margin-left: 11em;
+        margin-top: 2em;
+        font-family: 'Courgette', cursive;
+        font-size: 2em;
+        padding: 7px;
+        border-radius: 6px;
+    }
+
+
+
+
+
+}
