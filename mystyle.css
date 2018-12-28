@@ -135,7 +135,7 @@ a:hover {
 
 .orangebox{
     background-color:darkorange;
-    height: 6em;
+    height: 28em;
     padding: 5px;
     margin-left: 2em;
     margin-right: 2em;
@@ -146,7 +146,25 @@ a {
     text-decoration: none;
 }
 
+.yellowbox{
+    background-color:yellow;
+    height: 33xem;
+    padding: 5px;
+    margin-left: 2em;
+    margin-right: 2em;
+    border-radius: 4px;
+    box-shadow: 5px 10px #8888
+}
 
+.lightredbox{
+    background-color:orangered;
+    height: 33xem;
+    padding: 5px;
+    margin-left: 2em;
+    margin-right: 2em;
+    border-radius: 4px;
+    box-shadow: 5px 10px #8888
+}
 /***.red {
     color: white;
     font-size: 25px;
