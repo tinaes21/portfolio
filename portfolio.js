@@ -1,6 +1,6 @@
 let menu = document.querySelector(".menu");
 let nav = document.querySelector("nav");
-let titles = document.querySelector(".redlist");
+let titles = document.querySelector(".whitelist");
 
 menu.addEventListener("click", popup);
 
