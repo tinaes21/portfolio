@@ -393,8 +393,24 @@ h2 {
         border-radius: 6px;
     }
 
+    .yellowbox{
+        margin-bottom: 4em;
+    }
+    main{
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        grid-template-areas:
+        "h1-area h1-area"
+        "section-area3 section-area4"
+    }
 
-
-
-
+main h1{
+      grid-area: h1-area
+    }
+ main .section-area1{
+      grid-area: section-area1;
+    }
+ main .section-area2{
+      grid-area: section-area2
+    }
 }
