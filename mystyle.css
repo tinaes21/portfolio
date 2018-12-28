@@ -188,7 +188,7 @@ a {
 }
 
 .open {
-    height: 110px;
+    height: 95px;
 }
 
 .whitelist {
@@ -253,6 +253,10 @@ a {
         width: 38px;
     }
 
+.white {
+    margin-left: 8em;
+
+}
 
 
 }
