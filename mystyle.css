@@ -90,7 +90,7 @@ a:hover {
     padding: 8%;
 }
 
-#menu {
+.menu{
     width: 35px;
     margin-left: 11em;
     margin-top: 1.5em;
@@ -98,19 +98,25 @@ a:hover {
 }
 
 .burger {
-    background-color: snow;
     height: 5px;
     margin: 6px 0;
-
+    background-color: snow;
 }
 
-
+.burger.burger2:hover {
+    cursor: pointer;
+}
 
 .burger2 {
-    background-color: black;
     height: 5px;
     margin: 6px 0;
+    background-color: black;
 }
+
+
+
+
+
 
 #options{
     padding: 15px;
@@ -165,7 +171,8 @@ a {
     border-radius: 4px;
     box-shadow: 5px 10px #8888
 }
-/***.red {
+
+.red{
     color: white;
     font-size: 25px;
     text-align: center;
@@ -179,13 +186,12 @@ a {
     transition: .5s cubic-bezier(.05,.33,.75,1.67);
 }
 
-.open {xxxx
+.open{
     height: 200px;
 }
 
-.redlist {xxxx
+.redlist{
     color: white;
     font-size: 25px;
     text-align: center;
-}***///
 
