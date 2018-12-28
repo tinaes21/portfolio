@@ -308,6 +308,42 @@ h2 {
 
 
 /*///// large screen styling /////////*/
-/**@media all and (min-width:1080px) {
+@media all and (min-width:1080px) {
 
-    }**/
+
+    body,html {
+        height: 100%;
+    }
+
+    .bg {
+        height: 100%;
+    }
+
+    .frontnav {
+        margin-left: 13em;
+        font-size: 29px;
+    }
+
+    h1.first-header {
+        text-align: center;
+        font-size: 4em;
+        margin-top: 62px;
+    }
+
+    .first-footer {
+        padding: 10px;
+        text-align: center;
+        margin-top: 30em;
+        font-size: 15px;
+        margin-bottom:0em;
+    }
+
+    .contact {
+        font-size: 22px;
+    }
+
+
+
+
+
+    }
