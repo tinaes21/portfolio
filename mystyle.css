@@ -188,4 +188,13 @@ a {
     font-size: 25px;
     text-align: center;
 
+/* /////// medium screen sizes ////////// */
+@media all and (min-width:768px) {
+    }
 
+
+
+/*///// large screen styling /////////*/
+@media all and (min-width:1080px) {
+
+    }
