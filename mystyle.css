@@ -72,7 +72,7 @@ a:hover {
     margin-right: 0;
     padding: 10px;
     text-align: center;
-    margin-top: 12em;
+    margin-top: 15em;
 }
 
 #page2 {
@@ -134,7 +134,7 @@ a:hover {
 
 .bluebox {
     background-color: lightskyblue;
-    height: 5em;
+    height: 6em;
     padding: 5px;
     margin-left: 2em;
     margin-right: 2em;
@@ -144,7 +144,7 @@ a:hover {
 
 .orangebox {
     background-color: darkorange;
-    height: 28em;
+    height: 29em;
     padding: 5px;
     margin-left: 2em;
     margin-right: 2em;
@@ -158,7 +158,7 @@ a {
 
 .yellowbox {
     background-color: yellow;
-    height: 33em;
+    height: 34em;
     padding: 5px;
     margin-left: 2em;
     margin-right: 2em;
@@ -168,7 +168,7 @@ a {
 
 .lightredbox {
     background-color: orangered;
-    height: 33em;
+    height: 18em;
     padding: 5px;
     margin-left: 2em;
     margin-right: 2em;
@@ -303,10 +303,12 @@ h2 {
 }
 
 .lightredbox {
+    height: 22em;
     padding: 7px;
     margin-left: 6em;
     margin-right: 6em;
     margin-bottom: 5em;
+
 }
 
 
@@ -395,6 +397,7 @@ h2 {
 
     .yellowbox {
         margin-bottom: 4em;
+        height: 38em;
     }
     main {
         display: grid;
