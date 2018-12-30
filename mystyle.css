@@ -76,7 +76,7 @@ a:hover {
 }
 
 #page2 {
-    background-color: black;
+    background:#496980;
 }
 
 
@@ -247,7 +247,7 @@ a {
     }
 
     #page2 {
-        background-color: white;
+        background-color:white;
     }
 
     #biography {
@@ -360,12 +360,12 @@ h2 {
     }
 
     #page2 {
-        background-color: black;
+        background-color:#496980;
     }
 
     #biography {
         color: white;
-        background-color: black;
+        background-color:#496980;
         font-size: 27px;
         margin-left: 4em;
         margin-right: 4em;
