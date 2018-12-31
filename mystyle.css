@@ -49,12 +49,13 @@ h2 {
     background-color: #d8be81;
     color: black;
     transition: all 2s;
-    margin-left: 5.5em;
+    margin-left: 5em;
     font-family: 'Courgette', cursive;
     font-size: 1em;
     text-decoration: none;
     padding: 5px;
     border-radius: 6px;
+    box-shadow: 10px 10px 8px #7c7d7f;
 
 }
 
@@ -396,7 +397,7 @@ h2 {
         font-size: 2em;
         padding: 7px;
         border-radius: 6px;
-        box-shadow: 5px 10px 8px #D3D3D3;
+        box-shadow: 10px 10px 8px #373737;
     }
 
     .yellowbox {
