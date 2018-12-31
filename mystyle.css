@@ -396,6 +396,7 @@ h2 {
         font-size: 2em;
         padding: 7px;
         border-radius: 6px;
+        box-shadow: 5px 10px 8px #D3D3D3;
     }
 
     .yellowbox {
